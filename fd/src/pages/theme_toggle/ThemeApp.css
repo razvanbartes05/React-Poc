@@ -1,0 +1,20 @@
+.theme-toggle {
+    background-color: rgb(161, 95, 95);
+    padding: 20px;
+    width: 100%;
+}
+
+.theme-toggle.dark {
+    background-color: darkgray;
+}
+
+.theme-toggle.light {
+    background-color: rgb(161, 95, 95);
+}
+
+.toggle-button {
+    background-color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}

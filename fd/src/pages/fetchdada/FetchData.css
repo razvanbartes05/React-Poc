@@ -1,0 +1,8 @@
+
+.overlay-transition {
+    backdrop-filter: blur(0);
+    transition: ease-in 0.3s;
+}
+.overlay-transition:hover {
+    backdrop-filter: blur(10px);
+}
